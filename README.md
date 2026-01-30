@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @Nikynsuresh
-- 👀 I’m interested in NLP,ML algorithms,Complex python programs
-- 🌱 I’m currently learning bachelors of technology in artificial intelligence and data science
-- 💞️ I’m looking to collaborate on some interesting project and to learn from it
-- 📫 How to reach me on mail s.nikyn005@gmail.com
+# Hi 👋, I'm Nikyn 👨‍💻  
+
+🎓 B.Tech AI & Data Science  
+💡 Interested in Machine Learning, NLP, DSA & System Design  
+🚀 Currently grinding DSA + ML projects  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, C++
+- **ML/DL:** TensorFlow, Scikit-learn, NumPy, Pandas
+- **Web:** Flask, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+🔹 Multilingual Chatbot for Indian Schemes  
+🔹 Handwriting Detection using CNN  
+🔹 DSA Solutions (LeetCode / GFG)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikynsuresh&show_icons=true&theme=radical)
+
+---
+
+📫 Reach me: **nikyn005@gmail.com**
 
 <!---
 Nikynsuresh/Nikynsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
