@@ -26,7 +26,7 @@
 
 ---
 
-📫 Reach me: **nikyn005@gmail.com**
+📫 Reach me: **s.nikyn005@gmail.com**
 
 <!---
 Nikynsuresh/Nikynsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
