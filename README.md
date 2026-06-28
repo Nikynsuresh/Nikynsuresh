@@ -16,8 +16,8 @@
 
 ## 📌 Featured Projects
 🔹 Multilingual Chatbot for Indian Schemes  
-🔹 Handwriting Detection using CNN  
-🔹 DSA Solutions (LeetCode / GFG)
+🔹 AI Based Learning Platform 
+🔹 Smart DevTool for API Integration
 
 ---
 
