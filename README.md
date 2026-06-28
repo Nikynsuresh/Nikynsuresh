@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, C++
+- **Languages:** Python , SQL
 - **ML/DL:** TensorFlow, Scikit-learn, NumPy, Pandas
 - **Web:** Flask, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
