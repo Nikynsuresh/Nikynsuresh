@@ -1,34 +1,29 @@
-# Hi 👋, I'm Nikyn 👨‍💻  
+# Hi 👋, I'm Nikyn Suresh
 
-🎓 B.Tech AI & Data Science  
-💡 Interested in Machine Learning, NLP, DSA & System Design  
-🚀 Currently grinding DSA + ML projects  
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python , SQL
-- **ML/DL:** TensorFlow, Scikit-learn, NumPy, Pandas
-- **Web:** Flask, HTML, CSS
-- **Tools:** Git, GitHub, VS Code
+🎓 **B.Tech AI & Data Science**  
+💡 **Focus:** AI Systems, RAG Pipelines, NLP & Full-Stack Development  
+🚀 **Currently:** Building AI developer tools & practicing DSA  
 
 ---
 
-## 📌 Featured Projects
-🔹 Multilingual Chatbot for Indian Schemes  
-🔹 AI Based Learning Platform 
-🔹 Smart DevTool for API Integration
+### 🛠️ Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI / ML & RAG:** TensorFlow, Scikit-learn, Google Gemini API, Vector DBs, RAG, Pandas, NumPy
+- **Web & Frameworks:** FastAPI, Flask, React, Node.js, HTML, CSS
+- **Databases & Tools:** MongoDB, Git, GitHub, VS Code
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikynsuresh&show_icons=true&theme=radical)
+### 📌 Featured Projects
+
+- 🚀 [AI-Based Learning Platform](https://github.com/Nikynsuresh/AI-based-Learning-platform) – Personalized learning platform using FastAPI, React, MongoDB, and Gemini RAG.
+- ⚡ [Agent Compliance Card Generator](https://github.com/Nikynsuresh/Agent-Compliance-Card-Generator) – AI platform that crawls API docs, vectorizes content, and generates client SDKs.
+- 🛠️ [Smart DevTool for API Integration](https://github.com/Nikynsuresh/Smart-DevTool-for-Api-Integration) – Analyzes API docs, extracts endpoints, and auto-generates production SDKs.
 
 ---
 
-📫 Reach me: **s.nikyn005@gmail.com**
+### 📫 Connect with Me
 
-<!---
-Nikynsuresh/Nikynsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Email:** [s.nikyn005@gmail.com](mailto:s.nikyn005@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](#)
